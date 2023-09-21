@@ -7,4 +7,6 @@
 - DEF CON 31 - Infinite Money Glitch - Hacking Transit Cards - Bertocchi, Campbell, Gibson, Harris https://www.youtube.com/watch?v=1JT_lTfK69Q
 - Complex Adaptive Systems (Stonk Market) and How to Beat Them https://www.youtube.com/watch?v=8QaP43sFO5A&t=104s
 - why Japan's internet is weirdly designed https://www.youtube.com/watch?v=z6ep308goxQ
+- SCRUM ES UN C*NCER... https://www.youtube.com/watch?v=1Ibr_zStmfU
+- The Absolute Chaos of r/Wallstreetbets https://www.youtube.com/watch?v=jg85H26wyLk
   
