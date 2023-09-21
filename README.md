@@ -1,2 +1,2 @@
-# Estudio & Investigacion Repo
+# Estudio & Investigación Repo
 
