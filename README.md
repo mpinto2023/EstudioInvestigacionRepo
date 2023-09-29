@@ -9,4 +9,5 @@
 - why Japan's internet is weirdly designed https://www.youtube.com/watch?v=z6ep308goxQ
 - SCRUM ES UN C*NCER... https://www.youtube.com/watch?v=1Ibr_zStmfU
 - The Absolute Chaos of r/Wallstreetbets https://www.youtube.com/watch?v=jg85H26wyLk
+- You are doing logging in .NET wrong. Let’s fix it. - Nick Chapsas - NDC Oslo 2023  https://www.youtube.com/watch?v=NlBjVJPkT6M
   
